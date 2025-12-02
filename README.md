@@ -1,8 +1,6 @@
-<!-- markdownlint-disable MD033 -->
 <p align="center">
   <img src="assets/icon.png" width="150" alt="Velocity Logo" />
 </p>
-<!-- markdownlint-enable MD033 -->
 
 # Welcome to Velocity
 
