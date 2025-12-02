@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD024 -->
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -7,6 +8,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - **Version Display**: Added the current application version number (e.g., v1.0.2) to the bottom of the sidebar for easy verification.
+- **Update Settings**: Added a toggle in Settings > General to enable/disable automatic update checks on startup.
 
 ## [1.0.1] - 2025-12-02
 
