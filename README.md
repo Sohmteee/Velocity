@@ -36,7 +36,7 @@ See everything at a glance. Your projects, their status, and recent activity are
 
 **Installation**
 
-1. Download the latest Windows installer ([Velocity_Setup.exe](https://github.com/Sohmteee/Velocity/releases/tag/v1.0.0)).
+1. Download the latest Windows installer ([Velocity_Setup](https://github.com/Sohmteee/Velocity/releases/tag/v1.0.0)).
 2. Run the installer and follow the on-screen instructions.
 3. Launch **Velocity** from your desktop or start menu.
 
