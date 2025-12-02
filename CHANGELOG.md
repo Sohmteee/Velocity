@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - **Update Settings**: Added a toggle in Settings > General to enable/disable automatic update checks on startup.
 - **Diff Stats**: Added visual diff statistics (insertions/deletions) next to files in the changes list with color-coding (Green for additions, Red for deletions).
 - **Auto-Commit Controls**: Added a cancel button to the auto-commit banner and disabled the push button while an operation is in progress.
+- **Dynamic Installer**: The Windows installer now automatically includes the version number in its filename (e.g., `Velocity_Setup_v1.0.2.exe`).
 
 ### Fixed
 
