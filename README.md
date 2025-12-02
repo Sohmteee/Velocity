@@ -91,6 +91,6 @@ See everything at a glance. Your projects, their status, and recent activity are
 * You may **not** redistribute, sell, reverse engineer, or modify the application source code.
 * The software is provided "as is" without warranty of any kind.
 
-For the full legal text, please refer to the `LICENSE.txt` file included with this application.
+For the full legal text, please refer to the [LICENSE.md](LICENSE.md) file included with this application.
 
 Copyright © 2025 Sohmtee. All rights reserved.
