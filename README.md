@@ -9,6 +9,7 @@
 Whether you are a seasoned developer or just starting out, Velocity helps you keep track of your work, save your progress, and collaborate with others without the headache of command-line tools.
 
 
+
 ## 🌟 Why Velocity?
 
 Velocity isn't just another Git client; it's your intelligent coding companion.
@@ -24,6 +25,7 @@ Connect your GitHub account in seconds. View all your repositories, download the
 
 ### 📊 Beautiful Dashboard
 See everything at a glance. Your projects, their status, and recent activity are organized in a stunning, modern interface designed for focus and clarity.
+
 
 
 ## 📖 User Guide
@@ -64,6 +66,7 @@ See everything at a glance. Your projects, their status, and recent activity are
 *   **Pull**: If you are working with a team, click **Pull** to download their latest changes to your computer.
 
 
+
 ## 📝 Changelog
 
 ### v1.0.0 - Initial Release
@@ -73,6 +76,7 @@ See everything at a glance. Your projects, their status, and recent activity are
 *   **Feature**: GitHub Authentication and Repository cloning.
 *   **Feature**: Real-time file watching and diff viewing.
 *   **UI**: Modern, glassmorphic design system.
+
 
 
 ## 📄 License & Legal
