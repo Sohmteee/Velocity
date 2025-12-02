@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon/icon.png" width="150" alt="Velocity Logo" />
+  <img src="assets/icon.png" width="150" alt="Velocity Logo" />
 </p>
 
 # Welcome to Velocity
