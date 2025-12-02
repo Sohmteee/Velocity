@@ -8,7 +8,6 @@
 
 Whether you are a seasoned developer or just starting out, Velocity helps you keep track of your work, save your progress, and collaborate with others without the headache of command-line tools.
 
----
 
 ## 🌟 Why Velocity?
 
@@ -26,7 +25,6 @@ Connect your GitHub account in seconds. View all your repositories, download the
 ### 📊 Beautiful Dashboard
 See everything at a glance. Your projects, their status, and recent activity are organized in a stunning, modern interface designed for focus and clarity.
 
----
 
 ## 📖 User Guide
 
@@ -65,7 +63,6 @@ See everything at a glance. Your projects, their status, and recent activity are
 *   **Push**: When you are ready to send your saved work to GitHub, click the **Push** button.
 *   **Pull**: If you are working with a team, click **Pull** to download their latest changes to your computer.
 
----
 
 ## 📝 Changelog
 
@@ -77,7 +74,6 @@ See everything at a glance. Your projects, their status, and recent activity are
 *   **Feature**: Real-time file watching and diff viewing.
 *   **UI**: Modern, glassmorphic design system.
 
----
 
 ## 📄 License & Legal
 
