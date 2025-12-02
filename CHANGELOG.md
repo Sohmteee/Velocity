@@ -1,7 +1,18 @@
-<!-- markdownlint-disable MD024 -->
 # Changelog
 
 All notable changes to this project will be documented in this file.
+
+## [1.0.3] - 2025-12-02
+
+### Added
+
+- **GitHub Integration**: Added a "New" button to the "Connect to GitHub" screen, allowing users to quickly create a new repository in the browser. The list automatically refreshes upon returning to the app.
+- **Auto-Commit Progress**: The Project Overview now displays real-time progress (Staging, Diffing, Generating Message, Committing, Pushing) next to the Push button during auto-commits.
+- **Path Truncation**: Project paths in the dashboard are now intelligently truncated for better readability.
+
+### Changed
+
+- **Auto-Commit Service**: Enhanced the service to broadcast granular status updates for better UI feedback.
 
 ## [1.0.2] - 2025-12-02
 
