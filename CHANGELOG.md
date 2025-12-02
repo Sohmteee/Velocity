@@ -7,10 +7,6 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - **Update Notification**: Added a feature to check for updates on startup.
-  - Checks GitHub Releases for newer versions.
-  - Displays a non-intrusive toast notification if an update is available.
-  - Includes a "Download" button to open the release page.
-  - Uses a custom SVG icon for the notification.
 
 ## [1.0.0] - 2025-12-02
 
