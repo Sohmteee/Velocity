@@ -12,18 +12,30 @@ All notable changes to this project will be documented in this file.
   - View detailed commit information with expandable file diffs.
   - Paginated list for smooth browsing of large repositories.
   - "View all" button in Project Overview for quick access.
-- **Profile Screen**: New dedicated profile screen (replaces dialog).
+- **Keyboard Shortcuts**: Customizable shortcuts for common Git actions.
+  - Stage All, Commit, Push, Undo Commit, Stash, Unstash, and Close Tab.
+  - Configure your own key combinations in Settings.
+- **Profile Screen**: New dedicated profile screen.
   - User avatar, name, email with Pro badge.
   - Subscription card showing plan type (Monthly/Yearly) and next billing date.
   - GitHub stats (repositories, followers, following).
-- **Notifications Screen**: New full-screen notifications view (replaces dialog).
+- **Notifications Screen**: New full-screen notifications view.
   - Notification icon moved to home page header.
   - Mark all as read functionality.
   - Click notification to view full details in dialog and auto-mark as read.
-- **Pro Payment Verification**: Auto-polling payment verification flow.
-  - Automatic polling for Pro activation after payment.
-  - Shows verification dialog with countdown while waiting for confirmation.
+- **Pro Features**: Comprehensive pro subscription model.
+  - Pro comparison dialog showing Free vs. Pro plans.
+  - Non-intrusive upsell card in the sidebar.
+  - Secure upgrade process with authentication.
+- **Authentication System**: Full GitHub OAuth integration.
+  - Branded login screen with "Sign in with GitHub".
+  - Sidebar widget displaying user avatar, name, and plan status.
+  - Logout confirmation dialog.
+- **Feedback System**: In-app feedback mechanism.
+  - Report bugs or request features directly from the app.
+  - Attach screenshots to your feedback.
 - **Commit Avatars**: GitHub profile pictures now displayed for commit authors.
+- **Uncommitted Changes Indicator**: Visual dot in sidebar for projects with uncommitted changes.
 
 ### Improved
 
@@ -35,42 +47,13 @@ All notable changes to this project will be documented in this file.
   - Improved subscription management experience.
 - **Automatic Branch Publishing**: Pushing a new branch automatically publishes it to GitHub.
 - **Navigation**: Profile and Notifications are now dashboard tabs instead of dialogs.
+- **Connect to GitHub Flow**: Streamlined flow to prevent redundant sign-in prompts.
 
 ### Fixed
 
 - **Staged Changes Display**: Fixed a bug where unstaged changes were incorrectly shown as staged.
 - **Untracked Files**: Untracked files now correctly appear in the changes list and can be staged.
 - **Payment Verification Timer**: Fixed the countdown timer continuing after successful payment.
-
-## [1.1.0] - 2025-12-04
-
-### Added
-
-- **Pro Features**: Introduced a comprehensive pro subscription model.
-  - **Pro Dialog**: A detailed comparison view of Free vs. Pro plans.
-  - **Upsell Card**: A non-intrusive card in the sidebar encouraging users to upgrade.
-  - **Upgrade Flow**: Secure upgrade process that enforces user authentication.
-- **Authentication System**: Full GitHub OAuth integration.
-  - **Login Screen**: A branded login screen with "Sign in with GitHub".
-  - **User Profile**: Sidebar widget displaying user avatar, name, and plan status.
-  - **Logout Confirmation**: A safety dialog to prevent accidental logouts.
-  - **Custom Auth Page**: A beautifully styled HTML success page for the local auth server.
-- **Feedback System**: A robust in-app feedback mechanism.
-  - **Feedback Dialog**: Allows users to report bugs or request features.
-  - **Screenshot Support**: Users can now attach screenshots to their feedback.
-  - **Metadata Collection**: Automatically captures OS, app version, and build number for better debugging.
-- **UI Refinements**:
-  - **Visual Polish**: Enhanced buttons and icons with the primary brand color and GitHub branding.
-- **Analytics & Usage Tracking**:
-  - **Session Tracking**: Logs session start and end times to Firestore.
-  - **Daily Usage**: Tracks total daily usage duration.
-  - **Heartbeat Sync**: Optimized "heartbeat" mechanism to sync data every 5 minutes with minimal database costs.
-- **Productivity Features**:
-  - **Uncommitted Changes Indicator**: Added a visual dot indicator in the sidebar for projects with uncommitted changes.
-  - **Pro Sync**: Pro status changes in Settings are now instantly synced to the cloud.
-- **UX Improvements**:
-  - **Loading States**: Added "Signing in..." loading state to the Login screen.
-  - **Streamlined Auth**: Improved the "Connect to GitHub" flow to prevent redundant sign-in prompts.
 
 ## [1.0.3] - 2025-12-02
 
