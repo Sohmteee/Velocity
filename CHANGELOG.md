@@ -3,6 +3,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2025-12-11
+
+### Fixed
+
+- **Payment Redirect**: Fixed payment callback redirect URL to use the proper landing page instead of a placeholder.
+- **Recent Commits**: Initial commit now appears in recent commits after linking a new project to GitHub.
+
 ## [1.1.0] - 2025-12-09
 
 ### Added
